@@ -1,5 +1,6 @@
 
-  ![CCO Logo](./assets/images/mit.png)
+  ![Image of app](https://github.com/terrylthompsonintx/shop-redux/blob/master/sc.png)
+  [Deployed app] (https://stormy-reef-21857.herokuapp.com/)
   # shop-redux
   ### Table of Contents
   1. [Program Description.](#program-description)
